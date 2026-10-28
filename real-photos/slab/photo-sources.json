@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-28",
+  "campaign": "slab",
+  "note": "Původní obrazové soubory publikované zdrojovými weby; bez generování a úprav pixelů. U nepojmenovaných osob se nepřipisuje zaměstnanecká identita.",
+  "assets": [
+    {
+      "file": "slab-wroclaw-clinic.jpg",
+      "url": "https://pasazgrunwaldzki.pl/wp-content/uploads/sites/19/2026/03/S-LAB-CLINICS-1900x1267.jpg",
+      "sourcePage": "https://pasazgrunwaldzki.pl/marki/s-lab/",
+      "width": 1900,
+      "height": 1267,
+      "sha256": "99299837e70e81893011402570f6a3cd5db36c97d6bfd41b07250431ba29c2bd",
+      "alt": null,
+      "caption": "S-LAB Clinics, Pasaż Grunwaldzki, Wrocław. Zdroj: Pasaż Grunwaldzki.",
+      "pixelEdits": false
+    },
+    {
+      "file": "aspot-wizyta-online.jpg",
+      "url": "https://www.aspotclinics.pl/images/wizyta-online.jpg",
+      "sourcePage": "https://www.aspotclinics.pl/",
+      "width": 787,
+      "height": 443,
+      "sha256": "4648071f8ded03cf2854c9b285e59d9c7d73fa111276722f2300fb50f3ebc825",
+      "alt": null,
+      "caption": "Ilustrační fotografie z oficiálního webu Aspot Clinics.",
+      "pixelEdits": false
+    },
+    {
+      "file": "slab-logo.jpg",
+      "url": "https://pasazgrunwaldzki.pl/wp-content/uploads/sites/19/2026/03/s-lab.jpg",
+      "sourcePage": "https://pasazgrunwaldzki.pl/marki/s-lab/",
+      "width": 250,
+      "height": 250,
+      "sha256": "d2f2d36e7bd2c355e07cf1752d8211c04672cb69556f8cdb7ae8910702e3a614",
+      "alt": null,
+      "caption": "S-LAB Clinics",
+      "pixelEdits": false
+    },
+    {
+      "file": "aspot-clinics-logo.png",
+      "url": "https://www.aspotclinics.pl/images/aspot-clinics-logo.png",
+      "sourcePage": "https://www.aspotclinics.pl/",
+      "width": 307,
+      "height": 307,
+      "sha256": "ebb72cce02a661cfb76f43ca34c4b9ef3aaa00427ecbd2d766bf0a18a10c66e4",
+      "alt": null,
+      "caption": "Aspot Clinics",
+      "pixelEdits": false
+    }
+  ]
+}

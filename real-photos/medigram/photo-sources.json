@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-28",
+  "campaign": "medigram",
+  "note": "Původní obrazové soubory publikované zdrojovými weby; bez generování a úprav pixelů. U nepojmenovaných osob se nepřipisuje zaměstnanecká identita.",
+  "assets": [
+    {
+      "file": "medigram_nase_mise.jpg",
+      "url": "https://medigram.cz/wp-content/uploads/2025/05/medigram_nase_mise.jpg",
+      "sourcePage": "https://medigram.cz/",
+      "width": 1500,
+      "height": 1001,
+      "sha256": "6cd6c3837f8d62f12bcbd9ead7a5576e0399c2b073095267fa50130d3892698b",
+      "alt": "Lékař při práci s podklady a notebookem; fotografie z webu mediGram.",
+      "caption": null,
+      "pixelEdits": false
+    },
+    {
+      "file": "Honza-scaled.png",
+      "url": "https://medigram.cz/wp-content/uploads/2025/05/Honza-scaled.png",
+      "sourcePage": "https://medigram.cz/",
+      "width": 1234,
+      "height": 2560,
+      "sha256": "b846d295f811419d801eb65be32e4f0363cd083a545d2d67feea2237626b07de",
+      "alt": "Jan Martin Paďouk, vedoucí vývoje a výzkumu podle oficiálního webu mediGram.",
+      "caption": null,
+      "pixelEdits": false
+    },
+    {
+      "file": "logo.png",
+      "url": "https://medigram.cz/wp-content/uploads/2025/05/logo.png",
+      "sourcePage": "https://medigram.cz/",
+      "width": 208,
+      "height": 33,
+      "sha256": "9eb7b4d2454b7aa97a9929e0b10f6676894cc9782aeb59eb12e756ba21387298",
+      "alt": "mediGram",
+      "caption": null,
+      "pixelEdits": false
+    }
+  ]
+}
