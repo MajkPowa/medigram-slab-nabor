@@ -12,6 +12,6 @@ Obě kampaně přijímají profesní dotazník, kontakt a povinný životopis v 
 
 Administrace je povolená pouze účtu levahtech@gmail.com. CV lze stáhnout jen po přihlášení s tímto oprávněním. Profesní skóre vychází z deklarovaného oprávnění, atestace a úrovně polštiny podle zvolené kampaně; není automatickým rozhodnutím o přijetí. AI shrnutí zůstává vypnuté. CV se do AI ani reklamním platformám neposílá.
 
-Designová revize 2. listopadu 2026 byla provedena podle [Unslop](https://github.com/heydamir/unslop) od Damira Sokolovského ([@heydamir](https://x.com/heydamir)), CC BY 4.0. Přináší věcné texty pro lékaře, čitelné písmo, klidnější tmavý motiv a skutečné fotografie bez reklamních překryvů. Jemně pohyblivé pozadí lze pozastavit; respektuje nastavení omezeného pohybu.
+Designová revize 2. listopadu 2026 byla provedena podle [Unslop](https://github.com/heydamir/unslop) od Damira Sokolovského ([@heydamir](https://x.com/heydamir)), CC BY 4.0. Dne 3. listopadu byl vzhled stránky mediGram sjednocen s aktuálním oficiálním webem medigram.cz: bílý podklad, modrofialová a oranžová, písmo Work Sans a aktuální portrét MUDr. Štěpána Bejvančického. S-LAB zachovává dosavadní vzhled. Funkce dotazníku, CV a administrace zůstávají zachované.
 
 Fotografie a loga jsou převzaté ze zdrojových webů mediGram, Aspot Clinics a Pasaż Grunwaldzki. Jejich původ je uvedený v souborech `real-photos/*/photo-sources.json` a přímo na stránkách. Font Work Sans se poskytuje s původní licencí SIL OFL v `real-photos/medigram/fonts/OFL.txt`.

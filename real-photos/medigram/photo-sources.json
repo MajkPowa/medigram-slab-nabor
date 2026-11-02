@@ -35,6 +35,77 @@
       "alt": "mediGram",
       "caption": null,
       "pixelEdits": false
+    },
+    {
+      "file": "stepan-bejvancicky.png",
+      "url": "https://medigram.cz/wp-content/uploads/2026/11/Mudr_Stepan_Bejvancicky-488x800.png",
+      "sourcePage": "https://medigram.cz/",
+      "fetchedAt": "2026-11-03",
+      "width": 488,
+      "height": 800,
+      "format": "PNG",
+      "mimeType": "image/png",
+      "sha256": "5f97e4b16c75ef591cae7b17d873f68d244b910e5fa4d29860d2367e2c74382c",
+      "alt": "MUDr. Štěpán Bejvančický, vedoucí lékař mediGram.",
+      "caption": null,
+      "pixelEdits": false
+    },
+    {
+      "file": "bgonas.jpg",
+      "url": "https://medigram.cz/wp-content/uploads/2025/05/bgonas.jpg",
+      "sourcePage": "https://medigram.cz/",
+      "fetchedAt": "2026-11-03",
+      "width": 1920,
+      "height": 643,
+      "format": "JPEG",
+      "mimeType": "image/jpeg",
+      "sha256": "dbbd406fb98a3ded3f30b67d600ebf11257a8e917f6766b97634de557d83b69c",
+      "alt": "Pozadí sekce O nás z oficiálního webu mediGram.",
+      "caption": null,
+      "pixelEdits": false
+    },
+    {
+      "file": "ico1.png",
+      "url": "https://medigram.cz/wp-content/uploads/2025/05/ico1.png",
+      "sourcePage": "https://medigram.cz/",
+      "fetchedAt": "2026-11-03",
+      "width": 84,
+      "height": 84,
+      "format": "PNG",
+      "mimeType": "image/png",
+      "sha256": "3ed062e41c1ca8e4ba52c4ad5261a79cfcb4d405f6b70a962892edaf53cbd271",
+      "alt": "První krok procesu na oficiálním webu mediGram.",
+      "caption": null,
+      "pixelEdits": false
+    },
+    {
+      "file": "ico2.png",
+      "url": "https://medigram.cz/wp-content/uploads/2025/05/ico2.png",
+      "sourcePage": "https://medigram.cz/",
+      "fetchedAt": "2026-11-03",
+      "width": 84,
+      "height": 84,
+      "format": "PNG",
+      "mimeType": "image/png",
+      "sha256": "24ca3c10131a99562068fac6a64f0f59acf51e1b9fdbac0e91366e0826159781",
+      "alt": "Druhý krok procesu na oficiálním webu mediGram.",
+      "caption": null,
+      "pixelEdits": false
+    },
+    {
+      "file": "ico3.png",
+      "url": "https://medigram.cz/wp-content/uploads/2025/05/ico3.png",
+      "sourcePage": "https://medigram.cz/",
+      "fetchedAt": "2026-11-03",
+      "width": 84,
+      "height": 84,
+      "format": "PNG",
+      "mimeType": "image/png",
+      "sha256": "55972fa56099d6921e63e373d34530a38955aaa9e89ed59f7ebd64d77be02ff9",
+      "alt": "Třetí krok procesu na oficiálním webu mediGram.",
+      "caption": null,
+      "pixelEdits": false
     }
-  ]
+  ],
+  "lastFetchedAt": "2026-11-03"
 }
