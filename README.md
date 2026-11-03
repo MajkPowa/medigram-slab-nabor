@@ -1,5 +1,7 @@
 # mediGram & S-LAB — nábor lékařů
 
+Mobilní úpravy mediGram z 3. listopadu 2026 přidávají přímý vstup na formulář, kontextové spodní tlačítko, sbalené nepovinné údaje, návrhy specializací a rychlou volbu kapacity. Nabídka obsahuje konkrétní rozdělení rolí, vysvětlení odměny a dalšího postupu. Backend, povinné PDF CV a způsob ukládání přihlášek zůstávají zachované.
+
 Náborové stránky pro lékařskou spolupráci s mediGram v Česku a S-LAB v Polsku. Frontend na GitHub Pages je připojený k náborovému systému.
 
 - [Úvod](https://majkpowa.github.io/medigram-slab-nabor/)
