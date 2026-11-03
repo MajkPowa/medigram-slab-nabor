@@ -1,5 +1,7 @@
 # mediGram & S-LAB — nábor lékařů
 
+Reklamní měření z 3. listopadu 2026 je oddělené od povinného náborového formuláře. Meta Pixel se načte pouze po samostatném nepovinném souhlasu a úspěšném uložení přihlášky s PDF; odešle neutrální událost Lead s neprůhledným identifikátorem proti duplicitám. Kontaktní a profesní odpovědi, skóre ani CV se do události nepředávají. Bez souhlasu se přihláška uloží stejným způsobem. Informace pro uchazeče mají verzi 2026-11-03-v3; samotné nasazení webu nemění cíl reklamních kampaní v Meta.
+
 Mobilní úpravy mediGram z 3. listopadu 2026 přidávají přímý vstup na formulář, kontextové spodní tlačítko, sbalené nepovinné údaje, návrhy specializací a rychlou volbu kapacity. Nabídka obsahuje konkrétní rozdělení rolí, vysvětlení odměny a dalšího postupu. Backend, povinné PDF CV a způsob ukládání přihlášek zůstávají zachované.
 
 Náborové stránky pro lékařskou spolupráci s mediGram v Česku a S-LAB v Polsku. Frontend na GitHub Pages je připojený k náborovému systému.
