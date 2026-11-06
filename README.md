@@ -1,20 +1,15 @@
 # mediGram & S-LAB — nábor lékařů
 
-Reklamní měření z 3. listopadu 2026 je oddělené od povinného náborového formuláře. Meta Pixel se načte pouze po samostatném nepovinném souhlasu a úspěšném uložení přihlášky s PDF; odešle neutrální událost Lead s neprůhledným identifikátorem proti duplicitám. Kontaktní a profesní odpovědi, skóre ani CV se do události nepředávají. Bez souhlasu se přihláška uloží stejným způsobem. Informace pro uchazeče mají verzi 2026-11-03-v3; samotné nasazení webu nemění cíl reklamních kampaní v Meta.
+Aktualizace 7. listopadu 2026: první krok u obou kampaní vyžaduje pouze jméno, příjmení a telefon. Po potvrzeném uložení kontaktu se zobrazí zpráva o přijetí. E-mail, profesní profil a PDF CV lze doplnit následně ke stejnému záznamu.
 
-Mobilní úpravy mediGram z 3. listopadu 2026 přidávají přímý vstup na formulář, kontextové spodní tlačítko, sbalené nepovinné údaje, návrhy specializací a rychlou volbu kapacity. Nabídka obsahuje konkrétní rozdělení rolí, vysvětlení odměny a dalšího postupu. Backend, povinné PDF CV a způsob ukládání přihlášek zůstávají zachované.
-
-Náborové stránky pro lékařskou spolupráci s mediGram v Česku a S-LAB v Polsku. Frontend na GitHub Pages je připojený k náborovému systému.
-
-- [Úvod](https://majkpowa.github.io/medigram-slab-nabor/)
 - [mediGram](https://majkpowa.github.io/medigram-slab-nabor/medigram/)
 - [S-LAB](https://majkpowa.github.io/medigram-slab-nabor/slab/)
 - [Informace pro uchazeče](https://majkpowa.github.io/medigram-slab-nabor/privacy/)
 - [Chráněná administrace](https://medigram-slab-nabor-2026.majkpowa.chatgpt.site/admin)
 
-Obě kampaně přijímají profesní dotazník, kontakt a povinný životopis v PDF do 5 MiB. Přihláška i CV se ukládají do chráněné administrace; náborový přehled se zapisuje také do neveřejné tabulky Google Sheets. Automatické potvrzení se odesílá z aitechbranny@gmail.com. Dostupnost příjmu a výsledek uložení i odeslání potvrzení zobrazuje formulář.
+Kontakt se ukládá do serverové databáze a zrcadlí do neveřejné tabulky Google Sheets. Administrace zobrazuje žádosti o zavolání, telefonní odkazy a náborový stav. Před doplněním profesních odpovědí není přiděleno skóre. Při dokončení profilu se uloží soukromé PDF a odešle potvrzení z aitechbranny@gmail.com; úvodní kontakt bez e-mailu žádnou poštu neodesílá.
 
-Administrace je povolená pouze účtu levahtech@gmail.com. CV lze stáhnout jen po přihlášení s tímto oprávněním. Profesní skóre vychází z deklarovaného oprávnění, atestace a úrovně polštiny podle zvolené kampaně; není automatickým rozhodnutím o přijetí. AI shrnutí zůstává vypnuté. CV se do AI ani reklamním platformám neposílá.
+Meta Pixel se načítá pouze po samostatném nepovinném souhlasu. Neutrální událost Lead se odešle po potvrzeném uložení kontaktu; následné doplnění stejné přihlášky nevytváří další Lead. Měří se také neutrální fáze formuláře. Kontaktní a profesní odpovědi ani CV se reklamní platformě neposílají. Verze informací pro uchazeče: 2026-11-07-v4.
 
 Designová revize 2. listopadu 2026 byla provedena podle [Unslop](https://github.com/heydamir/unslop) od Damira Sokolovského ([@heydamir](https://x.com/heydamir)), CC BY 4.0. Dne 3. listopadu byl vzhled stránky mediGram sjednocen s aktuálním oficiálním webem medigram.cz: bílý podklad, modrofialová a oranžová, písmo Work Sans a aktuální portrét MUDr. Štěpána Bejvančického. S-LAB zachovává dosavadní vzhled. Funkce dotazníku, CV a administrace zůstávají zachované.
 
