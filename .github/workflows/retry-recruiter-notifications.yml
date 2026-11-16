@@ -1,0 +1,30 @@
+name: Retry recruiter notifications
+
+on:
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+  workflow_dispatch:
+
+permissions: {}
+concurrency:
+  group: retry-recruiter-notifications
+  cancel-in-progress: false
+
+jobs:
+  retry:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Process due notifications
+        env:
+          MAINTENANCE_TOKEN: ${{ secrets.RECRUITER_MAINTENANCE_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          response=$(curl --fail --silent --show-error --connect-timeout 10 --max-time 90 \
+            --request POST --header "Authorization: Bearer $MAINTENANCE_TOKEN" \
+            'https://medigram-slab-nabor-2026.majkpowa.chatgpt.site/api/maintenance/recruiter-notifications')
+          if ! jq -e '.needsAttention == 0' <<< "$response" >/dev/null; then
+            echo 'The recruitment notification queue needs review.' >&2
+            exit 1
+          fi
